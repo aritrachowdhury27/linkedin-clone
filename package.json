@@ -1,0 +1,53 @@
+{
+  "name": "pronetwork-linkedin-clone",
+  "version": "1.0.0",
+  "description": "A professional networking platform inspired by LinkedIn, built with React, TypeScript, Vite, and Tailwind CSS",
+  "private": false,
+  "type": "module",
+  "keywords": [
+    "react",
+    "typescript",
+    "vite",
+    "tailwindcss",
+    "linkedin-clone",
+    "social-network",
+    "professional-network"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/pronetwork-linkedin-clone.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/pronetwork-linkedin-clone/issues"
+  },
+  "homepage": "https://github.com/yourusername/pronetwork-linkedin-clone#readme",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "clsx": "2.1.1",
+    "react": "19.2.6",
+    "react-dom": "19.2.6",
+    "tailwind-merge": "3.4.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "4.1.17",
+    "@types/node": "22.19.17",
+    "@types/react": "19.2.7",
+    "@types/react-dom": "19.2.3",
+    "@vitejs/plugin-react": "5.1.1",
+    "tailwindcss": "4.1.17",
+    "typescript": "5.9.3",
+    "vite": "7.3.2",
+    "vite-plugin-singlefile": "2.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  }
+}
